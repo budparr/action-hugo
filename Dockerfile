@@ -1,4 +1,4 @@
-FROM golang:1.12.1-alpine3.9
+FROM golang:golang:1.13-alpine
 
 # Github labels
 LABEL "com.github.actions.name"="Action Hugo"
